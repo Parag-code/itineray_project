@@ -1,4 +1,0 @@
-Flask
-pandas
-openai
-python-dotenv
